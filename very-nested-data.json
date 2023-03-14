@@ -673,6 +673,7 @@
    "ySfDGN56f",
    "rwwo3OhHp",
    "JlorxaaWg",
+   "Zdhi3ISPQ",
    "-9reBQU6_"
   ]
  },
@@ -2750,6 +2751,7 @@
   "id": "timeline",
   "content": "Timeline",
   "children": [
+   "q8QiQRyGj",
    "yX23vcTjg",
    "jc34mQRWa",
    "P5hz6HeWA",
@@ -4796,6 +4798,76 @@
  "plKO6OLhe": {
   "id": "plKO6OLhe",
   "content": "Add milk, oil, eggs, vanilla to flour mixture and beat oh medium until combined. Slowly add the water in low speed until combined. ",
+  "children": []
+ },
+ "Zdhi3ISPQ": {
+  "id": "Zdhi3ISPQ",
+  "content": "Chocolate Mousse Icing",
+  "children": [
+   "-dPtAdiwa",
+   "t0wx979Zw"
+  ]
+ },
+ "7I7V-i6hjy": {
+  "id": "7I7V-i6hjy",
+  "content": "2023-03-14",
+  "children": []
+ },
+ "q8QiQRyGj": {
+  "id": "q8QiQRyGj",
+  "content": "added Chocolate Mousse Icing to Sweets",
+  "children": [
+   "Zdhi3ISPQ",
+   "Lc_6sRV1T",
+   "7I7V-i6hjy"
+  ]
+ },
+ "-dPtAdiwa": {
+  "id": "-dPtAdiwa",
+  "content": "Ingredients",
+  "children": [
+   "uDnKsysDC",
+   "RLypoWoAr",
+   "d0qvwwVUS",
+   "B4Ov-nMNa"
+  ]
+ },
+ "uDnKsysDC": {
+  "id": "uDnKsysDC",
+  "content": "4 tbs cocoa powder",
+  "children": []
+ },
+ "RLypoWoAr": {
+  "id": "RLypoWoAr",
+  "content": "1 1/2 cups of chocolate",
+  "children": []
+ },
+ "d0qvwwVUS": {
+  "id": "d0qvwwVUS",
+  "content": "2 cups of whipping cream",
+  "children": []
+ },
+ "B4Ov-nMNa": {
+  "id": "B4Ov-nMNa",
+  "content": "2 tbs sugar",
+  "children": []
+ },
+ "t0wx979Zw": {
+  "id": "t0wx979Zw",
+  "content": "Method",
+  "children": [
+   "LBUYvhQqV",
+   "W-wAGRhLY"
+  ]
+ },
+ "LBUYvhQqV": {
+  "id": "LBUYvhQqV",
+  "content": "Melt the chocolate in the microwave. Add cocoa powder and mix well. ",
+  "children": []
+ },
+ "W-wAGRhLY": {
+  "id": "W-wAGRhLY",
+  "content": "Whip cream in an electric mixer until stiff peaks form. Add the chocolate mix and mix well. Refrigerate until set and put on cake. ",
   "children": []
  }
 }
